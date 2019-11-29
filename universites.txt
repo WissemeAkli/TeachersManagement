@@ -1,0 +1,114 @@
+﻿C Universite  de Bouira - Akli Mohand Oulhadj
+E Universite  de Jijel - Mohammed Seddik Ben yahia
+O Universite  d'Adrar - Ahmed Draya
+C Universite  de Djelfa - Ziane Achour
+C Universite de Ghardaia
+C Universite  de Khemis Miliana - Djilali Bounaama
+C Universite  Medea - Yahia Fares
+C Universite des sciences et de la technologie d'Alger, Houari Boumediene
+C Universite de Bejaia - Abderrahmane Mira
+C Universite  de Chlef - Hassiba Benbouali
+C Universite  de Boumerdes - M'hamed Bougara
+C Universite de Tizi Ouzou - Mouloud Maameri
+C Universite  de Laghouat - Amar Telidji
+C Universite  Blida 1 - Saad Dahlab
+C Universite de Blida 2 - Lounici Ali
+C Universite d'Alger 1 - Benyoucef Benkhedda
+C Universite d'Alger 2 - Abou el Kacem Saâdallah
+C niversite d'Alger 3 - Brahim Soltane Chaibout
+C Universite de la Formation Continue
+E Universite de Tebessa - Larbi Tebessi
+E Universite de Bordj Bou Arreridj - Mohamed Bachir El Ibrahimi
+E Universite d'El Tarf - Chadli Bendjedid
+E Universite  de Khenchela - Abbas Laghrour
+E Universite  de Oum El Bouaghi - Larbi Ben M'hidi
+E Universite d'El Oued - Hamma Lakhdar-
+E Universite de Souk Ahras - Mohammed-Cherif Messaadia
+E Universite  de Annaba - Badji Mokhtar
+E Universite  du 20 Aout 1955 de Skikda
+E Universite  8 Mai 1945 de Guelma
+E Universite de Batna 1 - Hadj Lakhder
+E Universite  de Biskra - Mohamed Khider
+E Universite  de M'sila - Mohamed Boudiaf	
+E Universite  de Ouargla - Kasdi Merbah
+E Universite des sciences islamiques Emir Abdelkader de Constantine
+E Universite  de Setif 1 - Ferhat Abbas
+E Universite  de Setif 2 - Mohamed Lamine Debaghine
+E Universite  de Constantine 1 - Freres Mentouri
+E Universite  de Constantine 2 - Abdelhamid Mehri
+E Universite de Constantine 3 -Salah Boubnider-
+E Universite de Batna 2 - Mustapha Ben Boulaid
+O Universite de Bechar - Mohamed Tahri
+O Universite  de Mascara - Mustapha Stambouli
+O Universite de Saida - Tahar Moulay
+O Universite  de Tlemcen - Abou Bekr Belkaid
+O Universite  de Tiaret - Ibn Khaldoun
+O Universite  Sidi Bel Abbes - Djillali Liabes
+O Universite de Mostaganem - Abdelhamid Ibn Badis
+O Universite d'Oran1 - Ahmed Ben Bella
+O Universite Mohamed Boudiaf  des sciences et de la technologie - Mohamed Boudiaf d'Oran
+O Universite  d'Oran 2 - Mohamed Ben Ahmed
+C Centre universitaire  de Tamanrasset - Amine Elokkal El Hadj Moussa Eg Akhamouk
+C Centre universitaire  de Tipaza - Abdallah Morsli
+C Centre Universitaire d'Illizi-Cheikh Amoud ben Mokhtar
+C Centre universitaire Aflou
+E Centre Universitaire de Mila - Abdelhafid Boussouf
+E Centre Universitaire de Barika - Si El Haoues
+O Centre Universitaire de Tissemsilt- Ahmed ben yahia el-wancharissi
+O Centre Universitaire  de Ain Temouchent - Belhadj Bouchaib
+O Centre universitaire de Relizane - Ahmed Zabana
+O Centre universitaire   de Naama - Ahmed Salhi
+O Centre universitaire   d'El Bayadh - Nour Bachir
+O Centre universitaire de Tindouf-Ali Kafi
+O Centre universitaire de Maghnia
+O Annexe de Sougheur 
+O Annexe de Ksar Chellala 
+C Ecole Nationale Polytechnique
+C Ecole nationale superieure d'hydraulique-Arbaoui Abdellah
+C Ecole nationale superieure des travaux publics -  Francis Jeanson
+C Ecole nationale superieure veterinaire-Rabie Bouchama
+C Ecole Polytechnique d'architecture et d'Urbanisme-Hocine Ait Ahmed
+C Ecole nationale superieure agronomique-Khalef Abdellah alias Kasdi Merbah
+C Ecole des hautes etudes commerciales- Boualem Oussedik
+C Ecole nationale superieure d'informatique
+C Ecole nationale superieure en statistique et en economie appliquee
+C Ecole Superieure de Commerce-Mouloud Kacem Nait Belkacem
+C Ecole nationale superieure des sciences de la mer et de l'amenagement du littoral
+C Ecole nationale superieure de management
+C Ecole Nationale Superieure de Technologie
+C Ecole nationale superieure de journalisme et des sciences de l'information
+C Ecole Nationale Superieure des sciences politiques
+C Ecole Superieure des Sciences de l'Aliment et des Industries Agroalimentaires d'Alger ex EP SNV Alger
+C Ecole Superieure des Sciences appliquees d'Alger ex EP ST Alger
+E Ecole nationale superieure des mines et de la metallurgie-Amar Laskri
+E Ecole Nationale Polytechnique de Constantine-Malek Bennabi
+E Ecole Nationale Superieure de Biotechnologie de Constantine - Tewfik Khaznadar-
+E Ecole Superieure des Sciences de Gestion de Annaba ex EPSECG Annaba
+E Ecole Superieure des Technologies Industrielles de Annaba ex EP ST Annaba
+E Ecole Superieure de Comptabilite et de Finance de Constantine ex EPSECG Constantine
+O Ecole Nationale Polytechnique d'Oran - Maurice Audin
+O Ecole  Superieure d'Informatique (Sidi Bel Abbes)-08 Mai 1945
+O Ecole Superieure des Sciences Appliquees de Tlemcen ex EP ST Tlemcen
+O Ecole Superieure de Management de Tlemcen ex EPSECG Tlemcen
+O Ecole Superieure d'Economie d'Oran ex EPSECG Oran
+O Ecole Superieure en Genie Electrique et Energetique d'Oran ex EP ST Oran
+O Ecole Superieure Agronomique de Mostaganem ex EP SNV Mostaganem
+O Ecole Superieure des sciences Biologiques  d' Oran ex EP SNV Oran
+C ecole preparatoire en sciences economiques commerciales et sciences de gestion , Kolea
+C Ecole normale superieure de Bouzareah - Cheikh Mubarak Ben Mohamed Brahimi El Mili-
+C Ecole normale superieure de Kouba - Mohamed Bachir El Ibrahimi-
+C Ecole normale superieure de Laghouat - Taleb Abderrahmane
+E Ecole normale superieure de Constantine -Assia Djebar-
+E Ecole normale superieure d'enseignement technologique de Skikda
+E Ecole normale superieure de setif - Messaoud Zeghar-
+E Ecole normale superieure de Bou Saâda
+E Ecole normale superieure de Ouargla
+O Ecole Normale Superieure de Mostaganem
+O Ecole Normale Superieure d'Oran
+O Ecole normale superieure de Bechar
+
+
+
+
+
+

@@ -1,0 +1,339 @@
+# depslib dependency file v1.0
+1543936662 source:c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.c"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\t7of.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"T7OF.h"
+
+1543937137 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\t7of.h
+
+1455126286 source:c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1455126288 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\conio.h
+	<conio.h>
+	<windows.h>
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\indexep.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IndexEP.h"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\indexep.h
+
+1543936779 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conio.h"
+	"T7OF.c"
+	"IndexEP.c"
+	"affichage.c"
+	"IndexRE.c"
+
+1543589883 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\fonctions.h
+
+1543748763 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\affichage.c
+	"affichage.h"
+
+1543748763 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\affichage.h
+
+1543936660 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\indexre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IndexRE.h"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8\indexre.h
+
+1455126286 source:c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8 - copie (2)\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1455126288 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8 - copie (2)\conio.h
+	<conio.h>
+	<windows.h>
+
+1543936662 source:c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8 - copie (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.c"
+
+1544124003 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8 - copie (2)\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conio.h"
+	"T7OF.c"
+	"IndexEP.c"
+	"affichage.c"
+	"IndexRE.c"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8 - copie (2)\t7of.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"T7OF.h"
+
+1543937178 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8 - copie (2)\t7of.h
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8 - copie (2)\indexep.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IndexEP.h"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8 - copie (2)\indexep.h
+
+1543748763 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8 - copie (2)\affichage.c
+	"affichage.h"
+
+1543748763 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8 - copie (2)\affichage.h
+
+1543936660 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8 - copie (2)\indexre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IndexRE.h"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\tp_nouar_akli_g8 - copie (2)\indexre.h
+
+1455126286 source:c:\programmation c\2 cpi\nouveau dossier\version temchi 9rib nkmloi\tp_nouar_akli_g8 - copie (2) - copie\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1455126288 c:\programmation c\2 cpi\nouveau dossier\version temchi 9rib nkmloi\tp_nouar_akli_g8 - copie (2) - copie\conio.h
+	<conio.h>
+	<windows.h>
+
+1543936662 source:c:\programmation c\2 cpi\nouveau dossier\version temchi 9rib nkmloi\tp_nouar_akli_g8 - copie (2) - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.c"
+
+1544179320 c:\programmation c\2 cpi\nouveau dossier\version temchi 9rib nkmloi\tp_nouar_akli_g8 - copie (2) - copie\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conio.h"
+	"T7OF.c"
+	"IndexEP.c"
+	"affichage.c"
+	"IndexRE.c"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\version temchi 9rib nkmloi\tp_nouar_akli_g8 - copie (2) - copie\t7of.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"T7OF.h"
+
+1543937178 c:\programmation c\2 cpi\nouveau dossier\version temchi 9rib nkmloi\tp_nouar_akli_g8 - copie (2) - copie\t7of.h
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\version temchi 9rib nkmloi\tp_nouar_akli_g8 - copie (2) - copie\indexep.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IndexEP.h"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\version temchi 9rib nkmloi\tp_nouar_akli_g8 - copie (2) - copie\indexep.h
+
+1543748763 c:\programmation c\2 cpi\nouveau dossier\version temchi 9rib nkmloi\tp_nouar_akli_g8 - copie (2) - copie\affichage.c
+	"affichage.h"
+
+1543748763 c:\programmation c\2 cpi\nouveau dossier\version temchi 9rib nkmloi\tp_nouar_akli_g8 - copie (2) - copie\affichage.h
+
+1543936660 c:\programmation c\2 cpi\nouveau dossier\version temchi 9rib nkmloi\tp_nouar_akli_g8 - copie (2) - copie\indexre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IndexRE.h"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\version temchi 9rib nkmloi\tp_nouar_akli_g8 - copie (2) - copie\indexre.h
+
+1455126286 source:c:\programmation c\2 cpi\nouveau dossier\7 12 10h42\tp_akli_nouar_g8\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1455126288 c:\programmation c\2 cpi\nouveau dossier\7 12 10h42\tp_akli_nouar_g8\conio.h
+	<conio.h>
+	<windows.h>
+
+1543936662 source:c:\programmation c\2 cpi\nouveau dossier\7 12 10h42\tp_akli_nouar_g8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.c"
+
+1544180943 c:\programmation c\2 cpi\nouveau dossier\7 12 10h42\tp_akli_nouar_g8\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conio.h"
+	"T7OF.c"
+	"IndexEP.c"
+	"affichage.c"
+	"IndexRE.c"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\7 12 10h42\tp_akli_nouar_g8\t7of.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"T7OF.h"
+
+1543937178 c:\programmation c\2 cpi\nouveau dossier\7 12 10h42\tp_akli_nouar_g8\t7of.h
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\7 12 10h42\tp_akli_nouar_g8\indexep.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IndexEP.h"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\7 12 10h42\tp_akli_nouar_g8\indexep.h
+
+1543748763 c:\programmation c\2 cpi\nouveau dossier\7 12 10h42\tp_akli_nouar_g8\affichage.c
+	"affichage.h"
+
+1543748763 c:\programmation c\2 cpi\nouveau dossier\7 12 10h42\tp_akli_nouar_g8\affichage.h
+
+1543936660 c:\programmation c\2 cpi\nouveau dossier\7 12 10h42\tp_akli_nouar_g8\indexre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IndexRE.h"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\7 12 10h42\tp_akli_nouar_g8\indexre.h
+
+1455126286 source:c:\programmation c\2 cpi\nouveau dossier\7 12 12h09\tp_akli_nouar_g8\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1455126288 c:\programmation c\2 cpi\nouveau dossier\7 12 12h09\tp_akli_nouar_g8\conio.h
+	<conio.h>
+	<windows.h>
+
+1543936662 source:c:\programmation c\2 cpi\nouveau dossier\7 12 12h09\tp_akli_nouar_g8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.c"
+
+1544221938 c:\programmation c\2 cpi\nouveau dossier\7 12 12h09\tp_akli_nouar_g8\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conio.h"
+	"T7OF.c"
+	"IndexEP.c"
+	"affichage.c"
+	"IndexRE.c"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\7 12 12h09\tp_akli_nouar_g8\t7of.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"T7OF.h"
+
+1543937178 c:\programmation c\2 cpi\nouveau dossier\7 12 12h09\tp_akli_nouar_g8\t7of.h
+
+1544201400 c:\programmation c\2 cpi\nouveau dossier\7 12 12h09\tp_akli_nouar_g8\indexep.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IndexEP.h"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\7 12 12h09\tp_akli_nouar_g8\indexep.h
+
+1544219966 c:\programmation c\2 cpi\nouveau dossier\7 12 12h09\tp_akli_nouar_g8\affichage.c
+	"affichage.h"
+
+1543748763 c:\programmation c\2 cpi\nouveau dossier\7 12 12h09\tp_akli_nouar_g8\affichage.h
+
+1544200973 c:\programmation c\2 cpi\nouveau dossier\7 12 12h09\tp_akli_nouar_g8\indexre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IndexRE.h"
+
+1543936662 c:\programmation c\2 cpi\nouveau dossier\7 12 12h09\tp_akli_nouar_g8\indexre.h
+
+1455126286 source:c:\users\wisseme\desktop\tp_akli_nouar_g8\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1455126288 c:\users\wisseme\desktop\tp_akli_nouar_g8\conio.h
+	<conio.h>
+	<windows.h>
+
+1543936662 source:c:\users\wisseme\desktop\tp_akli_nouar_g8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fonctions.c"
+
+1544223745 c:\users\wisseme\desktop\tp_akli_nouar_g8\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conio.h"
+	"T7OF.c"
+	"IndexEP.c"
+	"affichage.c"
+	"IndexRE.c"
+
+1543936662 c:\users\wisseme\desktop\tp_akli_nouar_g8\t7of.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"T7OF.h"
+
+1543937178 c:\users\wisseme\desktop\tp_akli_nouar_g8\t7of.h
+
+1544201400 c:\users\wisseme\desktop\tp_akli_nouar_g8\indexep.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IndexEP.h"
+
+1543936662 c:\users\wisseme\desktop\tp_akli_nouar_g8\indexep.h
+
+1544219966 c:\users\wisseme\desktop\tp_akli_nouar_g8\affichage.c
+	"affichage.h"
+
+1543748763 c:\users\wisseme\desktop\tp_akli_nouar_g8\affichage.h
+
+1544200973 c:\users\wisseme\desktop\tp_akli_nouar_g8\indexre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IndexRE.h"
+
+1543936662 c:\users\wisseme\desktop\tp_akli_nouar_g8\indexre.h
+
